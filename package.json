@@ -2,6 +2,7 @@
   "name": "prism-echo-test-v4",
   "version": "1.0.0",
   "description": "Prism Echo Test Platform - LLM Testing Interface",
+  "homepage": "https://mgwhite223.github.io/prism-echo-test",
   "main": "index.js",
   "scripts": {
     "start": "react-scripts start",
